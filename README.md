@@ -27,16 +27,19 @@ This project includes:
 ## Dashboard Preview
 
 ### Executive Summary
+![Executive Summary](executive_summary.png)
 
 
 ### Sales Trend Analysis
+![Sales Trend](sales_trend.png)
 
 
 ### Product Performance
+![Product Performance Analysis](product_performance_analysis.png)
 
 
 ### Profitability Analysis
-
+![Profitability Analysis](profitability__analysis.png)
 
 
 ---
@@ -165,18 +168,10 @@ Q4 performance appears promotion-driven. Revenue increases, but margins compress
 
 ## Project Structure
 
-alexstore_sales_analysis/
-│
-├── data/
-│   └── alexstore_sales_dataset.xlsx
-│
-├── eda/
-│   └── alexstore_sales_analysis.ipynb
-│
-├── dashboard/
-│   └── alexstore_dashboard.pbix
-│
-└── README.md
+- data – alexstore_sales_dataset.xlsx  
+- eda – alexstore_sales_analysis.ipynb  
+- dashboard – alexstore_dashboard.pbix  
+- README.md
 
 ---
 
